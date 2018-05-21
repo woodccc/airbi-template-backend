@@ -1,6 +1,7 @@
 {
   "name": "{{projectName}}",
-  "version": "0.1.0",
+  "version": "{{version}}",
+  "description": "{{description}}",
   "private": true,
   "scripts": {
     "start": "node bin/metadata",
